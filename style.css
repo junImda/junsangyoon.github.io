@@ -5,6 +5,10 @@ html, body {
 
 }
 
+p{
+	color: black;
+}
+
 b, {font-weight:bold !important;}
 
 .title{
